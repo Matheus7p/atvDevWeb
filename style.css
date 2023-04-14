@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: sans-serif;
 }
 
 .compare{
@@ -44,19 +45,26 @@
     cursor: pointer;
 }
 
-#divCompare{
+.divResult{
     font-size: 20px;
     font-weight: 600;
     margin-left: 46%;
     margin-top: 5px;
 
 }
-#divIdadeContador{
-    font-size: 20px;
-    font-weight: 600;
-    margin-left: 46%;
-    margin-top: 5px;
 
+.listaAnime{
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 46.4%;
+    margin-bottom: 2px;
+    font-family: sans-serif;
+
+
+}
+
+.lista{
+    margin-bottom: 13px;
 }
 
 span{
